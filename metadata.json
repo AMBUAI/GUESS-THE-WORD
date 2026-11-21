@@ -1,0 +1,6 @@
+{
+  "name": "GUESS THE WORD",
+  "description": "Think alike. Type alike. Match minds. A real-time 2 to 6 player social mind-matching word game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
